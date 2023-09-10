@@ -1,0 +1,2 @@
+# VSBDS
+Visual Studio BDScript
